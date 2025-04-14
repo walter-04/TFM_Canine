@@ -1,1 +1,0 @@
-Este directorio tiene la salida del proceso VIBE para la segmentación de los datos disponibles en la carpeta Input
